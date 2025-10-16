@@ -1,10 +1,9 @@
 # 📈 Stock Sentiment Daily Prediction Model
 
-🚀 **Live Demo:** [Hugging Face Space](https://jacobre20-stock-sentiment-service.hf.space)  
-🧠 **Model Hub:** [jacobre20/stock-sentiment-daily-v1](https://huggingface.co/spaces/jacobre20/stock-sentiment-service/tree/main)  
+🚀 **Live Demo (API Docs):** [Hugging Face Space](https://jacobre20-stock-sentiment-service.hf.space/docs#/default/predict_predict_post)  
+🧠 **Model Hub Repository:** [jacobre20/stock-sentiment-daily-v1](https://huggingface.co/spaces/jacobre20/stock-sentiment-service/tree/main)  
 📘 **Notebook:** [Open in Google Colab](https://colab.research.google.com/github/JacobREdwards/stock-sentiment-daily/blob/main/Stock_Sentiment_Model.ipynb)
 
----
 
 ## 🎯 Project Overview
 
